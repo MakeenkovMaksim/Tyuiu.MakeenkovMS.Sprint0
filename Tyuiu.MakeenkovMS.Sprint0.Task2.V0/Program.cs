@@ -1,9 +1,11 @@
-﻿namespace Tyuiu.MakeenkovMS.Sprint0.Task2.V0
+﻿using Tyuiu.MakeenkovMS.Sprint0.Task2.V0.Lib;
+namespace Tyuiu.MakeenkovMS.Sprint0.Task2.V0
 {
     internal class Program
     {
         static void Main(string[] args)
         {
+
             Console.ReadKey();
         }
     }
