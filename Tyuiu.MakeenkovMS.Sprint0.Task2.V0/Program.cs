@@ -10,3 +10,4 @@ namespace Tyuiu.MakeenkovMS.Sprint0.Task2.V1
         }
     }
 }
+
