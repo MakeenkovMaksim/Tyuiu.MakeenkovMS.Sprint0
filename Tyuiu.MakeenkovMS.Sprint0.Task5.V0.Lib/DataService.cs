@@ -1,4 +1,4 @@
-﻿namespace Tyuiu.MakeenkovMS.Sprint0.Task5.V0.Lib
+﻿namespace Tyuiu.MakeenkovMS.Sprint0.Task5.V1.Lib
 {
     public class DataService
     {
