@@ -1,5 +1,5 @@
-﻿using Tyuiu.MakeenkovMS.Sprint0.Task3.V0.Lib;
-namespace Tyuiu.MakeenkovMS.Sprint0.Task3.V0.Test
+﻿using Tyuiu.MakeenkovMS.Sprint0.Task3.V1.Lib;
+namespace Tyuiu.MakeenkovMS.Sprint0.Task3.V1.Test
 {
     [TestClass]
     public sealed class DataServiceTest

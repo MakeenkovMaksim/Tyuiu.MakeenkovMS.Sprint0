@@ -1,5 +1,5 @@
-﻿using Tyuiu.MakeenkovMS.Sprint0.Task3.V0.Lib;
-namespace Tyuiu.MakeenkovMS.Sprint0.Task3.V0
+﻿using Tyuiu.MakeenkovMS.Sprint0.Task3.V1.Lib;
+namespace Tyuiu.MakeenkovMS.Sprint0.Task3.V1
 {
     internal class Program
     {
