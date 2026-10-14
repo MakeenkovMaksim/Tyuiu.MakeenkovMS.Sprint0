@@ -1,6 +1,6 @@
 ﻿using System.Globalization;
 
-namespace Tyuiu.MakeenkovMS.Sprint0.Task6.V0.Lib
+namespace Tyuiu.MakeenkovMS.Sprint0.Task6.V1.Lib
 {
     public class DataService
     {
