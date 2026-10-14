@@ -1,4 +1,4 @@
-﻿namespace Tyuiu.MakeenkovMS.Sprint0.Task1.V0
+﻿namespace Tyuiu.MakeenkovMS.Sprint0.Task1.V1
 {
     internal class Program
     {
